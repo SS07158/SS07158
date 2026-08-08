@@ -134,63 +134,72 @@ I learn by **building, experimenting, and solving real-world problems** — turn
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🤖 ResumeIQ
 
-**AI-powered Resume Analysis & Career Assistant**
+**AI-Powered Resume Analysis & Career Assistant**
 
-An AI-powered application that analyzes resumes against job descriptions and provides actionable insights for improving ATS compatibility, identifying skill gaps, generating cover letters, preparing interview questions, and creating career roadmaps.
+An AI-powered application that analyzes resumes against job descriptions and provides actionable insights for **ATS compatibility, skill gaps, resume improvement, cover letters, interview preparation, and personalized career roadmaps**.
 
-**`Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq`**
+**Tech Stack**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-ResumeIQ-36BCF7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/ResumeIQ)
+`Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq`
 
-</div>
+<p>
+  <a href="https://github.com/SS07158/ResumeIQ">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ResumeIQ Source Code">
+  </a>
+  <a href="https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C5CE7?style=for-the-badge&logo=streamlit&logoColor=white" alt="ResumeIQ Live Demo">
+  </a>
+</p>
 
 ---
-
-<div align="center">
 
 ### 📊 EDA Buddy
 
 **Interactive Exploratory Data Analysis Platform**
 
-A data exploration platform designed to make EDA easier by helping users understand datasets, visualize patterns, detect outliers, perform preprocessing, and generate reusable Python code.
+A beginner-friendly interactive platform for **exploring datasets, understanding patterns, detecting outliers, performing preprocessing, creating visualizations, and generating reusable Python code**.
 
-**`Python` `Pandas` `NumPy` `Scikit-learn` `Plotly` `SciPy` `Streamlit`**
+**Tech Stack**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-EDA%20Buddy-9B59B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/EDA-Buddy)
+`Python` `Pandas` `NumPy` `Scikit-learn` `Plotly` `SciPy` `Streamlit`
 
-</div>
+<p>
+  <a href="https://github.com/SS07158/EDA-Buddy">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="EDA Buddy Source Code">
+  </a>
+  <a href="https://eda-buddy.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C5CE7?style=for-the-badge&logo=streamlit&logoColor=white" alt="EDA Buddy Live Demo">
+  </a>
+</p>
 
 ---
-
-<div align="center">
 
 ### 🛒 Hot Wheels Tracker
 
 **Product Availability Monitoring & Automation**
 
-A Python automation project that monitors product availability and sends Telegram notifications when tracked products become available.
+A Python automation system that monitors product availability and sends **Telegram notifications when tracked products become available**.
 
-**`Python` `Playwright` `Telegram Bot API`**
+**Tech Stack**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-Hot%20Wheels%20Tracker-FF6B35?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/hotwheels-tracker)
+`Python` `Playwright` `Telegram Bot API`
 
-</div>
+<p>
+  <a href="https://github.com/SS07158/hotwheels-tracker">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hot Wheels Tracker Source Code">
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SS07158?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Projects-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+  </a>
+</p>
 
-### 🔎 More Projects
-
-I have more experiments, tools, and projects in my repositories.
-
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158?tab=repositories)
-
-</div>
 
 
 ## 📚 Currently Learning
