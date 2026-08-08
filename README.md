@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm SS07158
 
-### 🤖 AI / ML Developer • Python Developer • Builder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Python+Developer;Building+AI-powered+applications;Exploring+NLP+%26+LLMs;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
 **I build practical AI-powered applications, data tools, and automation projects.**
 
