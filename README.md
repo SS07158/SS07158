@@ -157,7 +157,15 @@ MLOps                  ████████░░░░░░░░░░░
 </div>
 
 ---
+## 🐍 Contribution Activity
 
+<div align="center">
+
+<img src="./profile/contribution-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
 ## 🎯 My Goal
 
 > **Build AI systems that are not only interesting, but actually useful.**
