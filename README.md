@@ -64,28 +64,71 @@ I learn by **building, experimenting, and solving real-world problems** — turn
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
 
-### AI / ML & Data
+### 🤖 Machine Learning & Deep Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-189B5A?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+</p>
 
-### Development & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6C5CE7?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-5B2C6F?style=for-the-badge" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/XGBoost-2E8B57?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Random%20Forest-1F6F8B?style=for-the-badge" alt="Random Forest" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### 📊 Data Science
 
-### AI & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-6C5CE7?style=for-the-badge" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/EDA-00A8E8?style=for-the-badge" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-8E44AD?style=for-the-badge" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Statistics-5B2C6F?style=for-the-badge" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Probability-1F6F8B?style=for-the-badge" alt="Probability" />
+  <img src="https://img.shields.io/badge/Linear%20Algebra-34495E?style=for-the-badge" alt="Linear Algebra" />
+</p>
+
+### 📈 Data Visualization & Apps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Dashboard%20Development-6C5CE7?style=for-the-badge" alt="Dashboard Development" />
+</p>
+
+### ⚙️ Backend, Cloud & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+### 🔧 Tools & Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 ---
 
