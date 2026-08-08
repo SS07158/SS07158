@@ -1,20 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm SS07158</h1>
 
-# 👋 Hi, I'm SS07158
+<h3 align="center">
+  AI/ML Developer building practical intelligent software
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Python+Developer;Building+AI-powered+applications;Exploring+NLP+%26+LLMs;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<p align="center">
+  🤖 Artificial Intelligence &nbsp;•&nbsp;
+  🧠 NLP & LLMs &nbsp;•&nbsp;
+  📊 Data Science &nbsp;•&nbsp;
+  ⚙️ Automation
+</p>
 
-**I build practical AI-powered applications, data tools, and automation projects.**
+<p align="center">
+  I learn by building — turning ideas, experiments, and real-world problems
+  into useful software.
+</p>
 
-Currently focused on **Artificial Intelligence, Machine Learning, NLP, and building useful software.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-SS07158-181717?style=for-the-badge\&logo=github)](https://github.com/SS07158)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saad-shaikh-1b9265259/)
-
-</div>
+<p align="center">
+  <a href="https://github.com/SS07158">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">LinkedIn</a> •
+</p>
 
 ---
 
