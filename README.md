@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm SS07158
+# 👋 Hi, I'm Saad Shaikh
 
-### 🤖 AI/ML Developer • AI Application Builder • Data & Automation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=600\&lines=AI%2FML+Engineer;Machine+Learning+Developer;Building+Practical+AI+Applications;Exploring+NLP+%26+LLMs)](https://git.io/typing-svg)
 
 <p>
-  I build practical AI-powered applications, data tools, and automation systems
-  that turn real-world problems into useful software.
+  I build practical AI-powered applications and intelligent software
+  that turn real-world problems into useful solutions.
 </p>
 
 <p>
@@ -19,10 +19,9 @@
 </p>
 
 <p>
+  🤖 Artificial Intelligence &nbsp;•&nbsp;
   🧠 Machine Learning &nbsp;•&nbsp;
-  💬 NLP & LLMs &nbsp;•&nbsp;
-  📊 Data Science &nbsp;•&nbsp;
-  ⚙️ Automation
+  💬 NLP & LLMs
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=SS07158&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
@@ -30,6 +29,7 @@
 </div>
 
 ---
+
 
 ---
 
