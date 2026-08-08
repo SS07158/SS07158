@@ -28,19 +28,16 @@
 
 ## 🧠 About Me
 
-I'm an **AI/ML Engineer in the making**, focused on building intelligent software and practical AI-powered applications.
+I'm an **AI/ML Engineer focused on building practical intelligent systems** that turn ideas and real-world problems into useful software.
 
-I learn by **building, experimenting, and solving real-world problems** — turning ideas into working projects and continuously improving along the way.
+My current focus is on:
 
-### 🔍 What I Explore
+- 🧠 **Machine Learning & Deep Learning** — building strong fundamentals and applying them to real projects
+- 🔤 **NLP & LLMs** — exploring Transformers, LLM-powered applications, and modern AI workflows
+- ⚙️ **AI Engineering** — building APIs and applications with technologies like PyTorch, FastAPI, Docker, and AWS
+- 🚀 **Learning by building** — experimenting with new technologies and turning what I learn into working projects
 
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🧠 **Natural Language Processing**
-* 🔗 **LLM-powered Applications**
-* 📊 **Data Science & Exploratory Analysis**
-* 🚀 **ML Deployment & MLOps**
-
-> 💡 **Build → Experiment → Learn → Improve → Repeat**
+> **I believe the best way to learn AI is to build with it.**
 
 
 ---
