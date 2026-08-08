@@ -297,14 +297,21 @@ My goal is to build systems that move beyond demos — **reliable, useful, and c
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people passionate about:
+<p align="center">
+  Interested in <b>AI, Machine Learning, Deep Learning, NLP, LLMs</b>, and building useful software?
+</p>
 
-**AI • Machine Learning • Data Science • Software Development • Building Useful Things**
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Shaikh-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SS07158">
+    <img src="https://img.shields.io/badge/GitHub-SS07158-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-<div align="center">
-
-### Thanks for visiting! 🚀
-
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  <i>Thanks for stopping by. Feel free to explore my projects and repositories. 🚀</i>
+</p>
 
 </div>
