@@ -146,11 +146,14 @@ My current focus is on:
 
 `Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq` `LLMs`
 
-<div align="center">
-
-**[🌐 Live Demo](https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/)** &nbsp;&nbsp; **[💻 Source Code](https://github.com/SS07158/ResumeIQ)**
-
-</div>
+<p>
+  <a href="https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Try%20ResumeIQ-7C3AED?style=for-the-badge" alt="ResumeIQ Live Demo">
+  </a>
+  <a href="https://github.com/SS07158/ResumeIQ">
+    <img src="https://img.shields.io/badge/Repository-GitHub-18181B?style=for-the-badge&logo=github" alt="ResumeIQ Repository">
+  </a>
+</p>
 
 ---
 
@@ -177,11 +180,14 @@ My current focus is on:
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `SciPy` `Plotly` `Streamlit`
 
-<div align="center">
-
-**[🌐 Live Demo](https://eda-buddy.streamlit.app/)** &nbsp;&nbsp; **[💻 Source Code](https://github.com/SS07158/EDA-Buddy)**
-
-</div>
+<p>
+  <a href="https://eda-buddy.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Try%20EDA%20Buddy-7C3AED?style=for-the-badge" alt="EDA Buddy Live Demo">
+  </a>
+  <a href="https://github.com/SS07158/EDA-Buddy">
+    <img src="https://img.shields.io/badge/Repository-GitHub-18181B?style=for-the-badge&logo=github" alt="EDA Buddy Repository">
+  </a>
+</p>
 
 ---
 
@@ -206,11 +212,11 @@ My current focus is on:
 
 `Python` `Playwright` `Telegram Bot API`
 
-<div align="center">
-
-**[💻 Source Code](https://github.com/SS07158/hotwheels-tracker)**
-
-</div>
+<p>
+  <a href="https://github.com/SS07158/hotwheels-tracker">
+    <img src="https://img.shields.io/badge/Repository-GitHub-18181B?style=for-the-badge&logo=github" alt="Hot Wheels Tracker Repository">
+  </a>
+</p>
 
 ---
 
