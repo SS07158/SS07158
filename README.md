@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/SS07158">GitHub</a> •
-  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">LinkedIn</a> 
 </p>
 
 ---
