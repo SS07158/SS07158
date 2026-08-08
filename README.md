@@ -134,24 +134,36 @@ I learn by **building, experimenting, and solving real-world problems** — turn
 
 ## 🚀 Featured Projects
 
+> A selection of practical projects where I apply AI/ML concepts to build useful software.
+
+---
+
 ### 🤖 ResumeIQ
 
 **AI-Powered Resume Analysis & Career Assistant**
 
-An AI-powered application that analyzes resumes against job descriptions and provides actionable insights for **ATS compatibility, skill gaps, resume improvement, cover letters, interview preparation, and personalized career roadmaps**.
+ResumeIQ is an AI-powered career assistant that analyzes a resume against a target job description and provides personalized recommendations to improve job-readiness.
 
-**Tech Stack**
+It combines **NLP, semantic similarity, ATS-style scoring, skill analysis, and LLM-powered generation** into a single application.
 
-`Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq`
+#### ✨ What it can do
 
-<p>
-  <a href="https://github.com/SS07158/ResumeIQ">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="ResumeIQ Source Code">
-  </a>
-  <a href="https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C5CE7?style=for-the-badge&logo=streamlit&logoColor=white" alt="ResumeIQ Live Demo">
-  </a>
-</p>
+- 📊 **ATS Analysis** — Evaluates resume compatibility with a target job description
+- 🧠 **Semantic Matching** — Measures semantic similarity between resume content and job requirements
+- 🎯 **Skill Analysis** — Identifies matching skills and potential skill gaps
+- ✍️ **Resume Optimizer** — Suggests improvements to make resume content more relevant
+- 💌 **Cover Letter Generator** — Creates a tailored cover letter for the target role
+- 🎤 **Interview Preparation** — Generates technical, behavioral, and project-based questions
+- 🚀 **Career Roadmap** — Creates a personalized learning roadmap based on identified gaps
+- 💡 **Actionable Feedback** — Converts analysis into practical recommendations
+
+#### 🛠️ Tech Stack
+
+`Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq` `LLMs`
+
+#### 🔗 Links
+
+> 🚀 **Live Demo** • 📂 **Source Code**
 
 ---
 
@@ -159,46 +171,62 @@ An AI-powered application that analyzes resumes against job descriptions and pro
 
 **Interactive Exploratory Data Analysis Platform**
 
-A beginner-friendly interactive platform for **exploring datasets, understanding patterns, detecting outliers, performing preprocessing, creating visualizations, and generating reusable Python code**.
+EDA Buddy is an interactive data analysis platform designed to make **Exploratory Data Analysis and preprocessing easier to understand and perform**.
 
-**Tech Stack**
+The application helps users explore datasets, understand their structure, visualize patterns, detect outliers, perform preprocessing, and generate reusable Python code.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Plotly` `SciPy` `Streamlit`
+#### ✨ What it can do
 
-<p>
-  <a href="https://github.com/SS07158/EDA-Buddy">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="EDA Buddy Source Code">
-  </a>
-  <a href="https://eda-buddy.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C5CE7?style=for-the-badge&logo=streamlit&logoColor=white" alt="EDA Buddy Live Demo">
-  </a>
-</p>
+- 📁 **Dataset Exploration** — Inspect columns, data types, statistics, and dataset structure
+- 🧹 **Data Preprocessing** — Perform common data cleaning and preprocessing operations
+- 📈 **Interactive Visualization** — Explore distributions, relationships, and correlations
+- 🔍 **Outlier Detection** — Identify unusual observations within datasets
+- 📊 **Statistical Analysis** — Understand important statistical properties of the data
+- 💻 **Code Generation** — Generate reusable Python code from analysis workflows
+
+#### 🛠️ Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `SciPy` `Plotly` `Streamlit`
+
+#### 🔗 Links
+
+> 🚀 **Live Demo** • 📂 **Source Code**
 
 ---
 
 ### 🛒 Hot Wheels Tracker
 
-**Product Availability Monitoring & Automation**
+**Product Availability Monitoring & Notification System**
 
-A Python automation system that monitors product availability and sends **Telegram notifications when tracked products become available**.
+Hot Wheels Tracker is a Python automation project that monitors product availability and sends notifications when tracked products become available.
 
-**Tech Stack**
+The project automates the repetitive process of checking product pages and uses Telegram notifications to alert the user when availability changes.
+
+#### ✨ What it does
+
+- 🌐 Monitors product pages automatically
+- 🔎 Checks product availability
+- ⚡ Uses browser automation with Playwright
+- 📲 Sends Telegram notifications
+- 🔄 Automates repetitive availability checking
+
+#### 🛠️ Tech Stack
 
 `Python` `Playwright` `Telegram Bot API`
 
-<p>
-  <a href="https://github.com/SS07158/hotwheels-tracker">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hot Wheels Tracker Source Code">
-  </a>
-</p>
+#### 🔗 Links
+
+> 📂 **Source Code**
 
 ---
 
-<p align="center">
-  <a href="https://github.com/SS07158?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Projects-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
-  </a>
-</p>
+## 🔬 Additional Projects
+
+Alongside my featured projects, I also build smaller experiments and applications to strengthen my understanding of **Machine Learning, Deep Learning, NLP, software development, and AI applications**.
+
+My repositories include experiments with different algorithms, tools, frameworks, and practical problem-solving approaches.
+
+> 🔎 **Explore my repositories to see more of my work.**
 
 
 
