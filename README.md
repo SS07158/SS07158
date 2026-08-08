@@ -224,7 +224,13 @@ I experiment with different AI/ML ideas, data applications, and software project
 
 ## 📚 Currently Learning
 
-I'm continuously expanding my AI/ML skill set through hands-on projects and experimentation.
+<p align="center">
+  <img src="./assets/learning-roadmap.svg" width="850" alt="Currently Learning — AI/ML Roadmap">
+</p>
+
+<p align="center">
+  <i>Building → Experimenting → Improving</i>
+</p>
 
 ### 🧠 Deep Learning & NLP
 
