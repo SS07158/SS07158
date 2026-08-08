@@ -1,21 +1,14 @@
-<div align="center">
-
-# 👋 Hi, I'm Saad Shaikh
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=600\&lines=AI%2FML+Engineer;Machine+Learning+Developer;Building+Practical+AI+Applications;Exploring+NLP+%26+LLMs)](https://git.io/typing-svg)
-
-<p>
-  I build practical AI-powered applications and intelligent software
-  that turn real-world problems into useful solutions.
+<p align="center">
+  <img src="assets/ai_hero.svg" alt="Saad Shaikh — AI/ML Engineer" width="900"/>
 </p>
 
-<p>
-  <a href="https://github.com/SS07158">
-    <img src="https://img.shields.io/badge/GitHub-SS07158-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
+  <b>Building intelligent systems with Machine Learning, Deep Learning, NLP & LLMs.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SS07158">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">LinkedIn</a>
 </p>
 
 <p>
