@@ -242,27 +242,7 @@ I experiment with different AI/ML ideas, data applications, and software project
   <i>Building → Experimenting → Improving</i>
 </p>
 
-### 🧠 Deep Learning & NLP
 
-- 🔥 Deep Learning architectures and neural networks
-- 🧠 Transformers and modern NLP techniques
-- 🤗 Exploring transformer-based models and LLM applications
-- ⚡ PyTorch for building and experimenting with deep learning models
-
-### 🔗 LLM Application Development
-
-- 🦜 LangChain — currently learning and experimenting with LLM application workflows
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧩 Building practical LLM-powered applications
-
-### 🚀 Moving Toward Production
-
-- 🐳 Docker & containerized ML applications
-- ☁️ AWS deployment
-- ⚙️ FastAPI-based ML services
-- 📦 Exploring practical MLOps workflows
-
-> **Learning by building, experimenting, and turning ideas into useful AI applications.** 🚀
 
 ---
 
