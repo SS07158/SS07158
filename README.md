@@ -224,7 +224,11 @@ My current focus is on:
 
 I experiment with different AI/ML ideas, data applications, and software projects.
 
-**[📂 Explore All Repositories →](https://github.com/SS07158?tab=repositories)**
+<p align="center">
+  <a href="https://github.com/SS07158?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+  </a>
+</p>
 
 
 
