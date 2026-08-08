@@ -163,7 +163,7 @@ It combines **NLP, semantic similarity, ATS-style scoring, skill analysis, and L
 
 #### 🔗 Links
 
-> 🚀 **Live Demo** • 📂 **Source Code**
+> 🚀 [Live Demo](https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/) • 📂 [Source Code](https://github.com/SS07158/ResumeIQ)
 
 ---
 
@@ -190,7 +190,7 @@ The application helps users explore datasets, understand their structure, visual
 
 #### 🔗 Links
 
-> 🚀 **Live Demo** • 📂 **Source Code**
+> 🚀 [Live Demo](https://eda-buddy.streamlit.app/) • 📂 [Source Code](https://github.com/SS07158/EDA-Buddy)
 
 ---
 
@@ -216,7 +216,7 @@ The project automates the repetitive process of checking product pages and uses 
 
 #### 🔗 Links
 
-> 📂 **Source Code**
+> 📂 [Source Code](https://github.com/SS07158/hotwheels-tracker)
 
 ---
 
