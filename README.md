@@ -218,7 +218,7 @@ My current focus is on:
 
 I experiment with different AI/ML ideas, data applications, and software projects.
 
-**[📂 Explore All Repositories →]**
+**[📂 Explore All Repositories →](https://github.com/SS07158?tab=repositories)**
 
 
 
