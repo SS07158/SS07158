@@ -285,11 +285,13 @@ I experiment with different AI/ML ideas, data applications, and software project
 </div>
 
 ---
-## 🎯 My Goal
+## 🎯 What I'm Building Toward
 
 > **Build AI systems that are not only interesting, but actually useful.**
 
-I'm working toward becoming a strong **AI/ML developer** by combining solid fundamentals, hands-on projects, and real-world problem solving.
+I'm focused on becoming a strong **AI/ML Engineer** by combining solid fundamentals, hands-on experimentation, and real-world problem solving.
+
+My goal is to build systems that move beyond demos — **reliable, useful, and capable of solving real problems.**
 
 ---
 
