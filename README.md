@@ -134,99 +134,101 @@ I learn by **building, experimenting, and solving real-world problems** — turn
 
 ## 🚀 Featured Projects
 
-> A selection of practical projects where I apply AI/ML concepts to build useful software.
-
----
+<div align="center">
 
 ### 🤖 ResumeIQ
-
 **AI-Powered Resume Analysis & Career Assistant**
 
-ResumeIQ is an AI-powered career assistant that analyzes a resume against a target job description and provides personalized recommendations to improve job-readiness.
+</div>
 
-It combines **NLP, semantic similarity, ATS-style scoring, skill analysis, and LLM-powered generation** into a single application.
+> An end-to-end AI application that analyzes resumes against job descriptions and provides personalized career insights. ResumeIQ combines NLP, semantic similarity, ATS scoring, and LLM-powered generation to help users improve their resumes and prepare for interviews.
 
-#### ✨ What it can do
+**✨ What it does**
 
-- 📊 **ATS Analysis** — Evaluates resume compatibility with a target job description
-- 🧠 **Semantic Matching** — Measures semantic similarity between resume content and job requirements
-- 🎯 **Skill Analysis** — Identifies matching skills and potential skill gaps
-- ✍️ **Resume Optimizer** — Suggests improvements to make resume content more relevant
-- 💌 **Cover Letter Generator** — Creates a tailored cover letter for the target role
-- 🎤 **Interview Preparation** — Generates technical, behavioral, and project-based questions
-- 🚀 **Career Roadmap** — Creates a personalized learning roadmap based on identified gaps
-- 💡 **Actionable Feedback** — Converts analysis into practical recommendations
+- 📄 Analyzes resumes against job descriptions
+- 🎯 Calculates ATS, semantic, and skill-match scores
+- 📝 Generates personalized resume improvement suggestions
+- ✉️ Creates customized cover letters
+- 🎤 Generates technical, behavioral, and project-based interview questions
+- 🚀 Builds personalized career roadmaps
 
-#### 🛠️ Tech Stack
+**🛠️ Built With**
 
 `Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq` `LLMs`
 
-#### 🔗 Links
+<div align="center">
 
-> 🚀 [Live Demo](https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/) • 📂 [Source Code](https://github.com/SS07158/ResumeIQ)
+**[🌐 Live Demo](https://ss07158-resumeiq-frontendapp-amb3ss.streamlit.app/)** &nbsp;&nbsp; **[💻 Source Code](https://github.com/SS07158/ResumeIQ)**
+
+</div>
 
 ---
 
-### 📊 EDA Buddy
+<div align="center">
 
+### 📊 EDA Buddy
 **Interactive Exploratory Data Analysis Platform**
 
-EDA Buddy is an interactive data analysis platform designed to make **Exploratory Data Analysis and preprocessing easier to understand and perform**.
+</div>
 
-The application helps users explore datasets, understand their structure, visualize patterns, detect outliers, perform preprocessing, and generate reusable Python code.
+> A beginner-friendly platform designed to make Exploratory Data Analysis more interactive and understandable. EDA Buddy helps users explore datasets, identify patterns, detect outliers, perform preprocessing, and generate reusable Python code.
 
-#### ✨ What it can do
+**✨ What it does**
 
-- 📁 **Dataset Exploration** — Inspect columns, data types, statistics, and dataset structure
-- 🧹 **Data Preprocessing** — Perform common data cleaning and preprocessing operations
-- 📈 **Interactive Visualization** — Explore distributions, relationships, and correlations
-- 🔍 **Outlier Detection** — Identify unusual observations within datasets
-- 📊 **Statistical Analysis** — Understand important statistical properties of the data
-- 💻 **Code Generation** — Generate reusable Python code from analysis workflows
+- 📂 Upload and explore datasets interactively
+- 🔍 Perform automated exploratory data analysis
+- 📈 Generate interactive visualizations
+- 🚨 Detect outliers and missing values
+- 🧹 Perform common preprocessing operations
+- 🧪 Apply basic feature engineering techniques
+- 💻 Generate reusable Python code
 
-#### 🛠️ Tech Stack
+**🛠️ Built With**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `SciPy` `Plotly` `Streamlit`
 
-#### 🔗 Links
+<div align="center">
 
-> 🚀 [Live Demo](https://eda-buddy.streamlit.app/) • 📂 [Source Code](https://github.com/SS07158/EDA-Buddy)
+**[🌐 Live Demo](https://eda-buddy.streamlit.app/)** &nbsp;&nbsp; **[💻 Source Code](https://github.com/SS07158/EDA-Buddy)**
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 🛒 Hot Wheels Tracker
+**Automated Product Availability Monitoring**
 
-**Product Availability Monitoring & Notification System**
+</div>
 
-Hot Wheels Tracker is a Python automation project that monitors product availability and sends notifications when tracked products become available.
+> A Python automation tool that monitors product availability and sends real-time Telegram notifications when tracked products become available.
 
-The project automates the repetitive process of checking product pages and uses Telegram notifications to alert the user when availability changes.
+**✨ What it does**
 
-#### ✨ What it does
-
-- 🌐 Monitors product pages automatically
-- 🔎 Checks product availability
-- ⚡ Uses browser automation with Playwright
-- 📲 Sends Telegram notifications
+- 🔎 Monitors selected product pages
+- ⚡ Detects product availability automatically
+- 📱 Sends Telegram notifications
 - 🔄 Automates repetitive availability checking
+- 🌐 Uses browser automation for dynamic websites
 
-#### 🛠️ Tech Stack
+**🛠️ Built With**
 
 `Python` `Playwright` `Telegram Bot API`
 
-#### 🔗 Links
+<div align="center">
 
-> 📂 [Source Code](https://github.com/SS07158/hotwheels-tracker)
+**[💻 Source Code](https://github.com/SS07158/hotwheels-tracker)**
+
+</div>
 
 ---
 
-## 🔬 Additional Projects
+### 🔎 More Projects
 
-Alongside my featured projects, I also build smaller experiments and applications to strengthen my understanding of **Machine Learning, Deep Learning, NLP, software development, and AI applications**.
+I experiment with different AI/ML ideas, data applications, and software projects.
 
-My repositories include experiments with different algorithms, tools, frameworks, and practical problem-solving approaches.
-
-> 🔎 **Explore my repositories to see more of my work.**
+**[📂 Explore All Repositories →]**
 
 
 
