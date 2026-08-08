@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm SS07158</h1>
+<div align="center">
 
-<h3 align="center">
-  AI/ML Developer building practical intelligent software
-</h3>
+# 👋 Hi, I'm SS07158
 
-<p align="center">
-  🤖 Artificial Intelligence &nbsp;•&nbsp;
-  🧠 NLP & LLMs &nbsp;•&nbsp;
+### 🤖 AI/ML Developer • AI Application Builder • Data & Automation
+
+<p>
+  I build practical AI-powered applications, data tools, and automation systems
+  that turn real-world problems into useful software.
+</p>
+
+<p>
+  <a href="https://github.com/SS07158">
+    <img src="https://img.shields.io/badge/GitHub-SS07158-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p>
+  🧠 Machine Learning &nbsp;•&nbsp;
+  💬 NLP & LLMs &nbsp;•&nbsp;
   📊 Data Science &nbsp;•&nbsp;
   ⚙️ Automation
 </p>
 
-<p align="center">
-  I learn by building — turning ideas, experiments, and real-world problems
-  into useful software.
-</p>
+<img src="https://komarev.com/ghpvc/?username=SS07158&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
-<p align="center">
-  <a href="https://github.com/SS07158">GitHub</a> •
-  <a href="https://www.linkedin.com/in/saad-shaikh-1b9265259/">LinkedIn</a> 
-</p>
+</div>
+
+---
 
 ---
 
