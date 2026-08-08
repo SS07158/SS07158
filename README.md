@@ -35,18 +35,20 @@
 
 ## 🧠 About Me
 
-I'm a developer interested in building **intelligent software and practical AI-powered applications**.
+I'm an **AI/ML Engineer in the making**, focused on building intelligent software and practical AI-powered applications.
 
-I learn primarily by **building projects, experimenting with new technologies, and solving real-world problems**.
+I learn by **building, experimenting, and solving real-world problems** — turning ideas into working projects and continuously improving along the way.
 
-### Areas I'm interested in
+### 🔍 What I Explore
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Natural Language Processing
-* 📊 Data Science & Exploratory Data Analysis
-* 🔗 LLM-powered applications
-* ⚙️ Automation
-* 🚀 ML deployment & MLOps
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🧠 **Natural Language Processing**
+* 🔗 **LLM-powered Applications**
+* 📊 **Data Science & Exploratory Analysis**
+* 🚀 **ML Deployment & MLOps**
+
+> 💡 **Build → Experiment → Learn → Improve → Repeat**
+
 
 ---
 
