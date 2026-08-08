@@ -74,41 +74,64 @@ I learn primarily by **building projects, experimenting with new technologies, a
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🤖 ResumeIQ
 
-**AI-powered Resume Analyzer**
+**AI-powered Resume Analysis & Career Assistant**
 
-Analyzes resumes against job descriptions and provides insights around ATS compatibility, missing skills, resume improvements, cover letters, interview preparation, and career direction.
+An AI-powered application that analyzes resumes against job descriptions and provides actionable insights for improving ATS compatibility, identifying skill gaps, generating cover letters, preparing interview questions, and creating career roadmaps.
 
-**Tech:** `Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq`
+**`Python` `FastAPI` `Streamlit` `NLP` `Sentence Transformers` `Scikit-learn` `Groq`**
 
-🔗 **[View ResumeIQ →](https://github.com/SS07158/ResumeIQ)**
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-ResumeIQ-36BCF7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/ResumeIQ)
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 📊 EDA Buddy
 
 **Interactive Exploratory Data Analysis Platform**
 
-A tool for exploring datasets, visualizing patterns, detecting outliers, performing preprocessing, and generating reusable Python code.
+A data exploration platform designed to make EDA easier by helping users understand datasets, visualize patterns, detect outliers, perform preprocessing, and generate reusable Python code.
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Plotly` `SciPy` `Streamlit`
+**`Python` `Pandas` `NumPy` `Scikit-learn` `Plotly` `SciPy` `Streamlit`**
 
-🔗 **[View EDA Buddy →](https://github.com/SS07158/EDA-Buddy)**
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-EDA%20Buddy-9B59B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/EDA-Buddy)
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 🛒 Hot Wheels Tracker
 
-**Product Availability Automation**
+**Product Availability Monitoring & Automation**
 
 A Python automation project that monitors product availability and sends Telegram notifications when tracked products become available.
 
-**Tech:** `Python` `Playwright` `Telegram Bot API`
+**`Python` `Playwright` `Telegram Bot API`**
 
-🔗 **[View Hot Wheels Tracker →](https://github.com/SS07158/hotwheels-tracker)**
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-Hot%20Wheels%20Tracker-FF6B35?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158/hotwheels-tracker)
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🔎 More Projects
+
+I have more experiments, tools, and projects in my repositories.
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SS07158?tab=repositories)
+
+</div>
+
 
 ## 📚 Currently Learning
 
